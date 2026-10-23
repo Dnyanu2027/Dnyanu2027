@@ -33,6 +33,30 @@ Python | SQL | Excel | Pandas | NumPy | Matplotlib | Power BI | Statistics
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+## 🚀 My Data Analyst Projects
+
+### 🛍️ 1. BlueMart Retail Sales Analysis
+Analyze retail sales data to understand sales trends and business performance.
+
+🔗 [View Project](https://github.com/Dnyanu2027/BlueMart-Retail-Sales-Analysis)
+
+### 🛒 2. Customer Shopping Behavior Analysis
+Explore customer shopping patterns and purchasing behavior to uncover useful business insights.
+
+🔗 [View Project](https://github.com/Dnyanu2027/customer-shopping-behavior-analysis)
+
+### 💰 3. Financial Performance Analysis
+Analyze financial performance to understand revenue, expenses, and key business metrics.
+
+🔗 [View Project](https://github.com/Dnyanu2027/financial_performance_analysis)
+
+### 📊 4. Blinkit Sales Analysis Using Python
+Explore sales data to identify product performance, sales patterns, and business insights.
+
+🔗 [View Project](https://github.com/Dnyanu2027/Blinkit_Sales_Python)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
