@@ -56,6 +56,11 @@ Explore sales data to identify product performance, sales patterns, and business
 
 🔗 [View Project](https://github.com/Dnyanu2027/Blinkit_Sales_Python)
 
+### 5. Canadian Retail Customer Segmentation (RFM Analysis)
+Sales Data Analysis: Product Performance, Sales Trends & Business Insights
+
+🔗 [View Project](https://github.com/Dnyanu2027/Canadian-Retail-Customer-Segmentation-RFM)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
